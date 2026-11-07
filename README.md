@@ -81,7 +81,7 @@ python -m streamlit run app.py
 Keep `energydata_complete.csv` in the same folder as `app.py`.
 
 
+## Screenshots of the Dashboard
 
-
-- Add your name here.
-- Add other group members if applicable.
+<img width="806" height="1374" alt="Screenshot 2026-11-07 183400" src="https://github.com/user-attachments/assets/be28b29a-3faa-4dac-bb86-022bf4004329" />
+<img width="783" height="1347" alt="Screenshot 2026-11-07 183415" src="https://github.com/user-attachments/assets/da06be5a-d1c6-4329-8284-45b328fa1a3c" />
